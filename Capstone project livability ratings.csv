@@ -1,0 +1,101 @@
+﻿RK,City,State,Population,LIV,CI,DE,EC,ED,HE,HO,IN
+1,Fort Collins,Colorado,170243,760,72,42,65,71,69,62,67
+2,Ann Arbor,Michigan,119980,759,84,67,52,73,69,66,65
+3,Madison,Wisconsin,259680,758,75,58,61,62,78,47,55
+4,Portland,Maine,66215,744,66,54,64,67,71,56,71
+5,Rochester,Minnesota,118935,727,66,42,49,60,79,55,72
+6,Asheville,North Carolina,92870,708,55,37,51,70,63,70,63
+7,Overland Parks,Kansas,195494,705,79,37,55,74,73,54,36
+8,Fargo,North Dakota,124662,701,57,47,60,64,70,46,51
+9,Durham,North Carolina,278993,700,51,68,63,60,50,64,54
+10,Sioux Falls,South Dakota,183793,699,48,38,62,68,68,51,55
+11,Columbus,Ohio,898553,698,40,70,63,58,45,52,63
+12,Lincoln,Nebraska,289102,697,56,45,62,68,65,52,55
+13,Charlotte,North Carolina,885708,696,52,71,56,63,47,57,46
+14,Bismark,North Dakota,73529,695,58,17,66,69,69,59,51
+15,Ames,Iowa,66258,694,75,49,57,71,73,56,69
+16,Albany,New York,96460,687,53,76,52,64,59,46,65
+17,Lawrence,Kansas,98193,684,67,51,54,70,64,52,57
+18,Salt Lake City,Utah,200567,680,56,54,59,65,54,32,55
+19,Corvallis,Oregon,58856,680,76,53,52,68,67,52,52
+20,Iowa City,Iowa,75130,678,74,60,46,58,79,54,51
+21,Grand Rapids,Michigan,202217,677,27,69,60,65,56,52,58
+22,Chandler,Arizona,278303,677,57,62,62,70,55,52,41
+23,Missoula,Montana,75034,671,54,30,57,70,71,59,53
+24,Framingham,Massachusetts,72044,668,68,55,55,44,67,49,31
+25,Longmont,Colorado,97261,667,59,41,67,35,71,55,57
+26,Tempe,Arizona,195805,665,61,70,50,69,43,64,50
+27,Champaign,Illinois,88966,665,66,71,51,62,51,68,52
+28,Eau Claire,Wisconsin,70157,665,52,31,57,65,75,62,62
+29,Orlando,Florida,294265,664,43,75,54,63,48,56,29
+30,Columbia,Missouri,123610,663,62,50,55,63,61,58,50
+31,Anchorage,Alaska,288000,663,61,45,50,58,60,35,86
+32,Athens,Georgia,128584,661,54,60,65,62,39,61,55
+33,Bellingham,Washington,91219,660,60,48,57,66,65,34,55
+34,Castle Rock,Colorado,68484,658,79,32,51,42,65,46,26
+35,Boise,Idaho,234844,657,63,31,63,63,66,54,34
+36,Columbia,Maryland,106585,657,80,66,48,56,67,47,18
+37,Oak Park,Illinois,52381,655,85,63,38,45,51,41,46
+38,Appleton,Wisconsin,76728,655,49,34,55,61,66,54,39
+39,Loveland,Colorado,78300,654,62,16,75,36,67,54,51
+40,Green Bay,Wisconsin,108526,653,30,43,62,52,62,63,44
+41,Richardson,Texas,117959,652,74,63,45,63,40,38,42
+42,Cincinnati,Ohio,309137,652,34,61,66,67,53,37,57
+43,Wilmington,North Carolina,123110,652,55,48,53,65,51,54,60
+44,McKinney,Texas,194617,652,64,64,54,63,57,33,19
+45,Bend,Oregon,94911,651,60,21,56,70,57,38,69
+46,Eugene,Oregon,172955,651,63,46,53,70,54,54,51
+47,Frederick,Maryland,74032,651,67,66,57,66,52,41,39
+48,Charleston,South Carolina,147457,650,69,43,56,61,49,53,57
+49,Spokane,Washington,227620,650,38,32,68,65,58,43,42
+50,Bloomington,Indiana,86048,650,68,56,50,72,54,67,47
+51,Pittsburgh,Pennsylvania,308882,650,43,67,62,67,59,39,44
+52,Franklin,Tennessee,83534,648,84,41,44,71,65,44,29
+53,Worcester,Massachusetts,187231,647,44,72,55,55,64,39,59
+54,Greenville,South Carolina,71693,647,52,54,50,67,48,64,33
+55,Denton,Texas,141792,646,57,59,58,66,58,38,47
+56,Jersey City,New Jersey,280263,646,52,93,51,54,40,29,46
+57,Manchester,New Hampshire,114049,646,44,48,67,49,57,50,53
+58,College Station,Texas,115015,646,73,60,53,70,62,53,42
+59,Vancouver,Washington,188923,645,49,44,73,42,55,30,54
+60,Carmel,Indiana,94151,644,89,36,33,50,73,63,23
+61,Billings,Montana,118054,644,49,18,51,56,59,71,42
+62,New Haven,Connecticut,133379,643,35,85,51,56,55,49,60
+63,Sacramento,California,506514,642,39,76,64,53,56,46,53
+64,St. Paul,Minnesota,304624,641,49,76,58,40,56,30,60
+65,Syracuse,New York,145383,641,24,75,53,59,60,52,51
+66,Olympia,Washington,54148,641,64,37,59,72,62,36,48
+67,Beaverton,Oregon,99442,640,65,59,57,46,48,39,54
+68,Provo,Utah,125187,640,64,48,59,55,56,35,66
+69,Manhattan,Kansas,55911,639,62,53,36,71,73,65,71
+70,Pflugerville,Texas,66140,638,63,70,59,43,57,36,32
+71,Providence,Rhode Island,182382,638,31,88,62,55,53,37,58
+72,Gainesville,Florida,133918,637,62,65,57,74,54,56,52
+73,Meridian,Idaho,109300,636,65,31,62,46,52,34,44
+74,Idaho Falls,Idaho,63512,634,48,30,54,56,49,60,64
+75,Tacoma,Washington,217721,634,46,61,68,54,47,26,48
+76,Marietta,Georgia,62487,633,45,71,55,75,46,53,35
+77,La Crosse,Wisconsin,52963,632,52,34,51,61,73,58,52
+78,Albuquerque,New Mexico,573160,631,45,48,49,67,52,58,49
+79,Tucson,Arizona,548073,631,27,57,75,65,58,59,58
+80,Duluth,Minnesota,87699,630,50,27,46,71,73,48,54
+81,Tallahassee,Florida,192864,629,61,62,62,71,44,64,41
+82,Auburn,Alabama,64620,628,71,53,49,68,33,70,55
+83,Des Moines,Iowa,229062,627,31,54,61,50,66,47,38
+84,Reno,Nevada,260427,626,45,48,60,62,46,51,48
+85,Flagstaff,Arizona,75038,625,65,43,51,71,46,65,72
+86,Fayetteville,Arkansas,87842,624,58,45,46,70,48,61,46
+87,Columbia,South Carolina,140541,619,44,54,63,65,41,54,67
+88,Bowling Green,Kentucky,68760,616,47,58,46,65,41,62,59
+89,Buffalo,New York,260727,615,16,70,55,61,52,47,58
+90,Kansas City,Missouri,504761,615,38,50,59,59,34,48,54
+91,Milwaukee,Wisconsin,585612,615,20,74,66,55,41,46,55
+92,Winston-Salem,North Carolina,248839,609,37,54,61,61,42,71,41
+93,Santa Fe,New Mexico,84888,606,50,33,41,69,51,58,64
+94,Cedar Rapids,Iowa,137904,605,47,29,60,53,56,50,52
+95,Murfreesboro,Tennessee,146900,601,51,56,59,62,32,41,43
+96,Knoxville,Tennessee,192237,599,32,50,67,69,46,53,32
+97,Lansing,Michigan,118137,599,15,63,78,56,50,56,41
+98,Alpharetta,Georgia,66509,595,78,66,32,48,45,49,27
+99,Jacksonville,Florida,925142,594,35,50,59,60,38,50,47
+100,Huntsville,Alabama,205061,591,54,39,58,68,38,58,50
