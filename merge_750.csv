@@ -1,0 +1,99 @@
+City,Food venues,Drinks venues,Coffee venues,Shops venues,Arts venues,Outdoors venues,Sights venues
+"Fort Collins, Colorado",53,26,10,100,18,18,74
+"Ann Arbor, Michigan",92,38,34,100,28,37,100
+"Madison, Wisconsin",65,32,24,100,12,38,85
+"Portland, Maine",100,64,35,100,36,47,100
+"Rochester, Minnesota",35,17,13,100,4,14,32
+"Asheville, North Carolina",66,30,22,100,40,51,99
+"Fargo, North Dakota",45,34,11,100,15,19,86
+"Durham, North Carolina",60,26,9,100,22,33,85
+"Sioux Falls, South Dakota",11,27,14,32,16,56,23
+"Columbus, Ohio",62,37,23,100,35,66,87
+"Lincoln, Nebraska",52,7,8,27,7,6,11
+"Charlotte, North Carolina",100,74,27,100,45,67,100
+"Ames, Iowa",54,15,12,9,16,45,7
+"Albany, New York",53,23,19,100,15,33,72
+"Lawrence, Kansas",43,27,13,100,14,15,57
+"Salt Lake City, Utah",100,56,31,100,25,38,100
+"Corvallis, Oregon",42,20,13,100,7,17,68
+"Iowa City, Iowa",45,35,21,100,15,23,50
+"Grand Rapids, Michigan",66,43,25,100,41,35,82
+"Chandler, Arizona",31,19,14,91,5,10,46
+"Missoula, Montana",41,31,16,100,13,24,74
+"Framingham, Massachusetts",22,8,9,100,9,4,31
+"Longmont, Colorado",37,13,9,100,8,17,49
+"Tempe, Arizona",11,5,32,68,4,26,26
+"Champaign, Illinois",36,26,48,100,11,19,60
+"Eau Claire, Wisconsin",17,18,14,63,10,15,37
+"Orlando, Florida",54,54,22,100,30,41,67
+"Columbia, Missouri",45,32,16,100,21,10,59
+"Anchorage, Alaska",51,22,18,100,22,32,91
+"Athens, Georgia",59,44,11,100,12,19,86
+"Bellingham, Washington",12,7,37,75,16,7,20
+"Castle Rock, Colorado",27,8,11,100,11,14,34
+"Boise, Idaho",69,46,27,100,37,37,97
+"Columbia, Maryland",22,3,4,29,4,67,22
+"Oak Park, Illinois",10,21,23,65,12,19,27
+"Appleton, Wisconsin",36,29,9,100,13,17,69
+"Loveland, Colorado",18,16,9,100,8,10,29
+"Green Bay, Wisconsin",48,26,16,83,14,19,80
+"Richardson, Texas",43,4,18,100,13,6,53
+"Cincinnati, Ohio",23,17,11,60,13,6,32
+"Wilmington, North Carolina",67,58,20,45,22,6,13
+"McKinney, Texas",34,8,11,100,9,6,44
+"Bend, Oregon",55,33,15,100,7,22,82
+"Eugene, Oregon",49,32,21,100,23,22,79
+"Frederick, Maryland",36,20,16,100,10,24,62
+"Charleston, South Carolina",71,30,21,100,42,46,88
+"Spokane, Washington",65,39,21,100,13,28,100
+"Bloomington, Indiana",70,23,19,100,22,19,100
+"Pittsburgh, Pennsylvania",100,54,48,100,54,75,100
+"Franklin, Tennessee",24,8,8,100,5,9,48
+"Worcester, Massachusetts",44,23,16,100,12,14,55
+"Greenville, South Carolina",51,31,12,100,11,26,77
+"Denton, Texas",47,29,11,100,12,15,67
+"Jersey City, New Jersey",31,5,24,82,9,11,29
+"Manchester, New Hampshire",29,16,20,100,5,10,28
+"College Station, Texas",36,5,21,62,13,8,47
+"Vancouver, Washington",70,35,30,100,9,9,7
+"Carmel, Indiana",7,17,9,34,4,5,10
+"Billings, Montana",43,19,9,100,8,6,63
+"New Haven, Connecticut",100,48,34,100,33,32,100
+"Sacramento, California",76,35,40,100,15,44,83
+"St. Paul, Minnesota",70,29,22,100,35,58,83
+"Syracuse, New York",66,33,20,100,26,24,83
+"Olympia, Washington",26,5,10,100,14,22,43
+"Beaverton, Oregon",78,15,18,100,13,24,100
+"Provo, Utah",53,11,10,100,8,7,61
+"Manhattan, Kansas",24,17,15,68,7,9,48
+"Pflugerville, Texas",7,6,5,38,7,6,16
+"Providence, Rhode Island",66,51,34,100,35,60,82
+"Gainesville, Florida",37,30,9,100,13,25,61
+"Meridian, Idaho",15,8,19,80,5,9,21
+"Idaho Falls, Idaho",11,5,4,100,5,19,5
+"Tacoma, Washington",53,33,19,100,20,37,80
+"Marietta, Georgia",37,8,8,100,20,20,49
+"La Crosse, Wisconsin",70,5,19,26,16,12,11
+"Albuquerque, New Mexico",42,24,14,100,19,18,54
+"Tucson, Arizona",11,19,13,100,14,4,24
+"Duluth, Minnesota",24,11,11,84,20,14,41
+"Tallahassee, Florida",26,11,9,100,11,24,38
+"Auburn, Alabama",38,13,18,63,7,5,46
+"Des Moines, Iowa",9,57,31,30,36,4,17
+"Reno, Nevada",81,55,15,100,16,34,100
+"Flagstaff, Arizona",55,26,18,100,14,15,60
+"Fayetteville, Arkansas",28,25,20,100,8,8,52
+"Columbia, South Carolina",71,33,14,100,30,28,84
+"Bowling Green, Kentucky",20,11,13,65,21,7,27
+"Buffalo, New York",49,34,16,100,19,30,68
+"Kansas City, Missouri",44,44,16,100,30,38,91
+"Milwaukee, Wisconsin",100,54,46,100,62,83,100
+"Winston-Salem, North Carolina",37,20,14,100,7,21,54
+"Santa Fe, New Mexico",64,34,27,100,56,32,92
+"Cedar Rapids, Iowa",33,18,4,41,10,6,6
+"Murfreesboro, Tennessee",18,6,4,100,4,12,27
+"Knoxville, Tennessee",44,23,11,100,16,30,57
+"Lansing, Michigan",38,14,9,98,8,21,57
+"Alpharetta, Georgia",42,10,15,100,5,18,50
+"Jacksonville, Florida",37,11,15,100,7,24,51
+"Huntsville, Alabama",18,21,19,100,15,18,47
